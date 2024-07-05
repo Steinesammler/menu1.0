@@ -1,0 +1,52 @@
+{
+    "days": [
+      [
+        "",
+        "Ein Frohes & Gesegnetes Osterfest w\u00fcnscht",
+        "das gesamte GOURMET Team",
+        ""
+      ],
+      [
+        "Kr\u00e4ftige Rindsuppe mit Semmelsch\u00f6berl A/C/G/L oder K\u00fcrbiscremesuppe",
+        "Chicken Wings BBQ Style mit Ofenkartoffel & Sauerrahmdip G",
+        "Spaghetti \u201eaglio e olio\u201c mit Oliven\u00f6l, Knoblauch, frischen Chili & Parmesan A",
+        "Asia Wok vom Rind mit Wok Gem\u00fcse, Sojasauce, Ingwer & Basmatireis F/L/N"
+      ],
+      [
+        "Kr\u00e4ftige Rindsuppe mit Leberreis A/C/G/L oder Tomatencremesuppe",
+        "Wiener Schnitzel vom Schwein mit Petersilienkartoffeln & Zitrone A/C/G",
+        "Hausgemachter Gem\u00fcsestrudel mit warmer Schnittlauchsauce A/C/G/L",
+        "Gebratenes Putensteak auf Ratatouille Gem\u00fcse & Polentaschnitte C/G"
+      ],
+      [
+        "Grie\u00dfnockerl A/C/G/L Kr\u00e4ftige Rindsuppe mit Grie\u00dfnockerl A/C/G/L oder Kartoffelcremesuppe",
+        "Serbisches Reisfleisch mit Tomaten, Paprika & frischen Kr\u00e4uter",
+        "Gartenkresse Omas Krautfleckerl mit Sauerrahm & Gartenkresse A/C/G",
+        "Rosa Schweinefilet mit Pfefferrahmsauce, Kroketten & Buttergem\u00fcse A/C/G"
+      ],
+      [
+        "Kaspresskn\u00f6del A/C/G/L Kr\u00e4ftige Rindsuppe mit Kaspresskn\u00f6del A/C/G/L oder Kr\u00e4utercremesuppe",
+        "Gebratene H\u00fchnerbrust auf rahmiger B\u00e4rlauch Pasta A/G",
+        "S\u00fc\u00dfe Variation Kn\u00f6del, Schmarren, Waffeln etc\u2026 A/C/G/H/O",
+        "Franz\u00f6sische Fischpfanne mit Safran, Gem\u00fcse & Kerbelkartoffeln B/D/G/L"
+      ]
+    ],
+    "menus": [
+      {
+        "name": "Tagessuppe",
+        "price": 1.15
+      },
+      {
+        "name": "Typisch \u00d6sterreich mit Suppe oder Men\u00fcsalat",
+        "price": 7.2
+      },
+      {
+        "name": "Vitalmen\u00fc mit Suppe oder Men\u00fcsalat",
+        "price": 6.9
+      },
+      {
+        "name": "Frischecorner mit Suppe oder Men\u00fcsalat",
+        "price": 7.1
+      }
+    ]
+  }
